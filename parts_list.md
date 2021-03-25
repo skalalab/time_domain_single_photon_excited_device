@@ -1,17 +1,19 @@
-## Parts list
+### Parts list
 ---
-#### Excitation laser source
+**Excitation laser source:**
 * [375nm picosecond pulsed diode laser, QuixX® 375-70 PS, Omicron-Laserage Laserprodukte GmbH (price: ~$14k)](https://www.omicron-laser.de/english/lasers/diode-lasers/quixx-ps-lasers/quixx-ps-diode-lasers.html)
----
-#### Time-correlated single photon counting (TCSPC) electronics
+
+--- 
+**Time-correlated single photon counting (TCSPC) electronics:**
 * [Time Tagger Ultra 8, Swabian Instruments GmbH (price: ~$20k)](https://www.swabianinstruments.com/time-tagger/)
 
 ---
-#### Emission photodetector and optics
+**Emission photodetector and optics:**
 * [Bialkali photon-counting photomultiplier tube (PMT), H10721P-210, Hamamatsu Photonics K.K. (price: $1k)](https://www.hamamatsu.com/us/en/product/type/H10721-210/index.html)
 
-* [Basler ace - acA1300-200um USB 3.0 CMOS camera, Basler, Inc. (price: $440k)](https://www.baslerweb.com/en/products/cameras/area-scan-cameras/ace/aca1300-200um/ 450/Emission filter)
+* [Basler ace - acA1300-200um USB 3.0 CMOS camera, Basler, Inc. (price: $440k)](https://www.baslerweb.com/en/products/cameras/area-scan-cameras/ace/aca1300-200um/)
 
+* 450/Emission filter
 * [Emission confocal pinhole, 50 μm, P50D, Thorlabs, Inc. (price: $70)](https://www.thorlabs.com/thorproduct.cfm?partnumber=P50D)
 
 * [XY Translator with Differential Drives, ST1XY-D, Thorlabs, Inc. (price: $500)](https://www.thorlabs.com/thorproduct.cfm?partnumber=ST1XY-D)
@@ -32,11 +34,10 @@
 
 * [2" Square RG850 Colored Glass Filter, 850 nm Longpass, FGL850S, Thorlabs, Inc. (price: $80)](https://www.thorlabs.com/thorproduct.cfm?partnumber=FGL850S)
 
-* CFI Plan Fluor 100X oil, 1.3NA objective lens, MRH01902, Nikon Instruments Inc. (price: $5k)
-* https://www.microscope.healthcare.nikon.com/selectors/objective-comparison/-1832
----
-#### Microscope and motorized stage
-* [Eclipse Ti-S inverted microscope with additional side port on eyepiece mount, Nikon Instruments Inc.](https://www.nikonmetrology.com/en-us/)
+* [CFI Plan Fluor 100X oil, 1.3NA objective lens, MRH01902, Nikon Instruments Inc. (price: $5k)](https://www.microscope.healthcare.nikon.com/selectors/objective-comparison/-1832)
 
+---
+**Microscope and motorized stage:**
+* [Eclipse Ti-S inverted microscope with additional side port on eyepiece mount, Nikon Instruments Inc.](https://www.nikonmetrology.com/en-us/)
 * [PZ-2000 XYZ series automated stage with piezo z-axis top plate, Applied Scientific Instrumentation](http://www.asiimaging.com/products/stages/piezo-z-axis-stages/pz-2000-xyz-series-automated-stage-with-piezo-z-axis-top-plate/)
 
