@@ -1,5 +1,3 @@
-# Wiki Contents
-
 This guide will show you through how to assemble a Time-domain single photon-excited autofluorescence lifetime detection system it is divided into the three sub-sections listed below. 
 
 ## Contents
