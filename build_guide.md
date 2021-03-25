@@ -40,3 +40,4 @@ Photon count rate | 25 Mcps sustained <br /> 250 Mcps maximum burst | 5 Mcps sus
 * [2]	https://www.swabianinstruments.com/static/downloads/TimeTagger.pdf
 * [3]	https://www.becker-hickl.com/products/spc-150n/#product-specs
 
+Compared to 2P TAC FLIM systems, our simplified 1P TDC system combines significantly reduced cost (~20-fold) and footprint (~40-fold) due to employing a diode laser, with increased maximum count rate (5-fold) due to fast FPGA electronics with low dead time. This combination has the potential to make metabolic assays based on autofluorescence lifetime measurements more accessible to scientific and cell manufacturing communities.
